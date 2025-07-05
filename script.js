@@ -26,72 +26,8 @@
       type: "Widescreen - 16:9"
     },
      
-       {
-      title: "Promotional Video",
-      description: "In this video, I used  Premier Pro and After Effects",
-      videoId: "9LQRGQ9dm14",
-      type: "Widescreen - 16:9"
-    },
-     
-       {
-      title: "Promotional Video",
-      description: "In this video, I used  Premier Pro and After Effects",
-      videoId: "aS99QHyZXpY",
-      type: "Widescreen - 16:9"
-    },
-     
-       {
-      title: "Promotional Video",
-      description: "In this video, I used  Premier Pro and After Effects",
-      videoId: "SN46KigPML4",
-      type: "Widescreen - 16:9"
-    },
-     
-       {
-      title: "Promotional Video",
-      description: "In this video, I used  Premier Pro and After Effects",
-      videoId: "JyjimDqBkPM",
-      type: "Widescreen - 16:9"
-    },
-     
-       {
-      title: "Promotional Video",
-      description: "In this video, I used  Premier Pro and After Effects",
-      videoId: "KE5JY4JYP98",
-      type: "Widescreen - 16:9"
-    },
-     
-          {
-      title: "Promotional Video",
-      description: "In this video, I used  Premier Pro and After Effects",
-      videoId: "U9lAjosCTEY",
-      type: "Widescreen - 16:9"
-    },
-     
-   
-          {
-      title: "Promotional Video",
-      description: "In this video, I used  Premier Pro and After Effects",
-      videoId: "JzNycOdcy2M",
-      type: "Widescreen - 16:9"
-    },
-     
-   
-          {
-      title: "Promotional Video",
-      description: "In this video, I used  Premier Pro and After Effects",
-      videoId: "QZEdCRPl5eU",
-      type: "Widescreen - 16:9"
-    },
-     
-   
-          {
-      title: "Promotional Video",
-      description: "In this video, I used  Premier Pro and After Effects",
-      videoId: "XyEnoCtD2qk",
-      type: "Widescreen - 16:9"
-    },
-     
+    
+    
    
      
     {
@@ -121,82 +57,8 @@
       type: "Reels - 9:16"
     },
    
-      {
-      title: "Reels",
-      description: "In this video, I used Premier Pro & After Effect.",
-      videoId: "_AUd-adPax8",
-      type: "Reels - 9:16"
-    },
-   
-      {
-      title: "Reels",
-      description: "In this video, I used Premier Pro & After Effect.",
-      videoId: "WSpXfWj0HA4",
-      type: "Reels - 9:16"
-    },
-   
-      {
-      title: "Reels",
-      description: "In this video, I used Premier Pro & After Effect.",
-      videoId: "NMt_Aelitms",
-      type: "Reels - 9:16"
-    },
-   
-      {
-      title: "Reels",
-      description: "In this video, I used Premier Pro & After Effect.",
-      videoId: "qldOwkHsQ-U",
-      type: "Reels - 9:16"
-    },
-   
-      {
-      title: "Reels",
-      description: "In this video, I used Premier Pro & After Effect.",
-      videoId: "8DHPewlim2o",
-      type: "Reels - 9:16"
-    },
-     {
-      title: "Reels",
-      description: "In this video, I used Premier Pro & After Effect.",
-      videoId: "sdqR6M7-KiI",
-      type: "Reels - 9:16"
-    },
-     {
-      title: "Reels",
-      description: "In this video, I used Premier Pro & After Effect.",
-      videoId: "5zJltf6g4Dk",
-      type: "Reels - 9:16"
-    },
-   
-   
+     
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    {
-    
-      title: "Motion Graphics",
-      description: "In this video, I used Photoshop & After Effect & Premier Pro",
-      videoId: "ACqpJFA-SnI-Dk",
-      type: "Square - 1:1"
-    },
     {
     
       title: "Motion Graphics",
@@ -221,30 +83,7 @@
       type: "Square - 1:1"
     },
  
-       {
-    
-      title: "Motion Graphics",
-      description: "In this video, I used Photoshop & After Effect & Premier Pro",
-      videoId: "tSD746u7YAs",
-      type: "Square - 1:1"
-    },
- 
-       {
-    
-      title: "Motion Graphics",
-      description: "In this video, I used Photoshop & After Effect & Premier Pro",
-      videoId: "3krAVjSGbls",
-      type: "Square - 1:1"
-    },
- 
-       {
-    
-      title: "Motion Graphics",
-      description: "In this video, I used Photoshop & After Effect & Premier Pro",
-      videoId: "ETt8wu-ihzQ",
-      type: "Square - 1:1"
-    },
- 
+
     
     
   ];
